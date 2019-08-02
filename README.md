@@ -10,6 +10,11 @@ This is basically
 - Figure S6 + S7 (src/results.R)
 - Figure S8 (by hand locuszoomplot)
 
+## Workflow
+
+- store summary stats on Zenodo
+- have a file for each figure and table prepared
+
 ## Usage
 
 1. Install `holepunch` with `remotes::install_github("karthik/holepunch")`
